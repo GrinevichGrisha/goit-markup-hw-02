@@ -1,0 +1,66 @@
+/* TODO палітра кольорів макету
+- #000000
+- #2196F3
+- #212121
+- #757575
+- #FFFFFF
+- #F5F4FA */
+
+.body {
+  background-color: #ffffff;
+  color: #212121;
+}
+
+li {
+  list-style: none;
+}
+
+.logo {
+  color: #000000;
+}
+
+.logo:hover {
+  color: #2196f3;
+}
+
+.logohead {
+  color: #2196f3;
+}
+
+/*? Site nav*/
+.site-nav .link {
+  color: #212121;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
+
+/*? Шапка */
+.hero-title {
+  color: #ffffff;
+}
+
+.btn {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+/*? features особливості*/
+.section-title {
+  color: #212121;
+}
+
+.section-text {
+  color: #757575;
+}
+
+/*? our team */
+.employee-name {
+  color: #212121;
+}
+
+.specialization {
+  color: #757575;
+}
