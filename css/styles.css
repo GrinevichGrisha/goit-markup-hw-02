@@ -37,6 +37,10 @@ li {
   color: #2196f3;
 }
 
+.site-nav .link.current {
+  color: #2196f3;
+}
+
 /*? Шапка */
 .hero-title {
   color: #ffffff;
