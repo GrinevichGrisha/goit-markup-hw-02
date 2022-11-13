@@ -28,7 +28,6 @@ li {
 
 .logo {
   font-family: 'Raleway';
-  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 31px;
@@ -46,7 +45,6 @@ li {
 /*? Site nav*/
 .site-nav .link {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -65,7 +63,6 @@ li {
 
 .auth-mail {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -80,7 +77,6 @@ li {
 
 .auth-tel {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -100,7 +96,6 @@ li {
 
 .hero-title {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
   line-height: 60px;
@@ -109,7 +104,6 @@ li {
 
 .btn {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 30px;
@@ -122,7 +116,6 @@ li {
 
 .section-title {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 16px;
@@ -133,8 +126,6 @@ li {
 
 .section-text {
   font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -145,7 +136,6 @@ li {
 
 .section-head {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 42px;
@@ -161,7 +151,6 @@ li {
 
 .about-title {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 42px;
@@ -172,7 +161,6 @@ li {
 
 .about-subtitle {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
@@ -183,7 +171,6 @@ li {
 
 .desc {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 19px;
@@ -247,7 +234,6 @@ li {
 
 .btn-nav {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -268,22 +254,17 @@ li {
 
 .projects-list {
   font-family: 'Roboto';
-  font-style: normal;
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
-  /* identical to box height, or 200% */
+  line-height: 2;
   letter-spacing: 0.06em;
   color: #212121;
 }
 
 .projects-text {
   font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
-  /* identical to box height, or 188% */
+  line-height: 1.88;
   letter-spacing: 0.03em;
   color: #757575;
 }
