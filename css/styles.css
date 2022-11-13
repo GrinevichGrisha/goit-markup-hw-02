@@ -157,7 +157,7 @@ li {
   color: #212121;
 }
 
-/*? наша команда */
+/*? About team */
 .about {
   background: #f5f4fa;
 }
@@ -194,7 +194,8 @@ li {
   letter-spacing: 0.03em;
   color: #757575;
 }
-/*? footer */
+/*? --footer-- */
+
 .footer {
   background-color: #2f303a;
 }
@@ -223,6 +224,11 @@ li {
   color: rgba(255, 255, 255, 0.6);
 }
 
+.footer-mail:hover,
+.footer-mail:focus {
+  color: #2196f3;
+}
+
 .footer-tel {
   font-family: 'Roboto';
   font-style: normal;
@@ -233,6 +239,10 @@ li {
   color: rgba(255, 255, 255, 0.6);
 }
 
+.footer-tel:hover,
+.footer-tel:focus {
+  color: #2196f3;
+}
 /*? Navigation portfolio */
 
 .btn-nav {
